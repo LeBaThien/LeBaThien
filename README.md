@@ -16,6 +16,7 @@
 - 🔭 Building **data platforms**, **AI-powered products**, and **scalable data pipelines**
 - 🤖 Interested in **LLMs**, **Agentic AI**, and **AI-driven Development**
 - 📊 Turning raw data into **actionable business insights**
+- 👥 Experienced in **team management** & **mentoring** engineers
 
 ---
 
@@ -108,6 +109,13 @@
 ![Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Data Lake Storage](https://img.shields.io/badge/Data_Lake_Storage-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+
+---
+
+### Education
+
+- 🎓 **University of Economics - The University of Danang** — Bachelor's degree, Business/Commerce
+- 🎓 **CodeGym** — Fullstack Engineering Bootcamp
 
 ---
 
